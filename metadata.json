@@ -1,0 +1,5 @@
+{
+  "name": "Ứng dụng Thời tiết Thông minh",
+  "description": "Một ứng dụng thời tiết đơn giản và đẹp mắt sử dụng React, Tailwind CSS và API Gemini để cung cấp dữ liệu thời tiết hiện tại.",
+  "requestFramePermissions": []
+}
